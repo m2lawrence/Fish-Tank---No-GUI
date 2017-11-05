@@ -1,0 +1,15 @@
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\FishTank01\FishTank01\bin\Debug\FishTank01.exe
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\FishTank01\FishTank01\bin\Debug\FishTank01.pdb
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\FishTank01\FishTank01\obj\Debug\FishTank01.csprojResolveAssemblyReference.cache
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\FishTank01\FishTank01\obj\Debug\FishTank01.exe
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\FishTank01\FishTank01\obj\Debug\FishTank01.pdb
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\0.FishTank01\FishTank01\bin\Debug\FishTank01.exe
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\0.FishTank01\FishTank01\bin\Debug\FishTank01.pdb
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\0.FishTank01\FishTank01\obj\Debug\FishTank01.csprojResolveAssemblyReference.cache
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\0.FishTank01\FishTank01\obj\Debug\FishTank01.exe
+D:\0.USBSportsDirect\1.SharpDevelop\4.4\Projects\NewSoftware\0.FishTank01\FishTank01\obj\Debug\FishTank01.pdb
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\0.FishTank0\FishTank01\bin\Debug\FishTank01.exe
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\0.FishTank0\FishTank01\bin\Debug\FishTank01.pdb
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\0.FishTank0\FishTank01\obj\Debug\FishTank01.csprojResolveAssemblyReference.cache
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\0.FishTank0\FishTank01\obj\Debug\FishTank01.exe
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\0.FishTank0\FishTank01\obj\Debug\FishTank01.pdb
